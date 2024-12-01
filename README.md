@@ -31,7 +31,7 @@ My name is **Nonprawich Intakaew**, but you can call me **Google** (yes, like th
 
 ### 💡 Fun Facts
 
-- **Nickname**: Google—yes, it's my real nickname! (And no, I haven’t received any merch from Google like others with this name, lol)
+- **Nickname**: <img src="https://raw.githubusercontent.com/npwitk/npwitk.github.io/refs/heads/main/assets/google-svg.svg" alt="Google" style="width: 65px; height: auto;">—yes, it's my real nickname! (And no, I haven’t received any merch from Google like others with this name, lol)
 - **Favorite Achievement**: Winning the **WWDC23 Swift Student Challenge**.
 - **Current Obsession**: CoreML, Books
 
