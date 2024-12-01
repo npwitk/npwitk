@@ -1,4 +1,7 @@
-## สวัสดีครับ and Hello, I'm Nonprawich 🌟
+
+
+
+## <img src="https://raw.githubusercontent.com/npwitk/npwitk.github.io/refs/heads/main/assets/hello-th.svg" alt="Sawasdee (Hello in Thai)" style="width: 70px; height: auto;"> and <img src="https://raw.githubusercontent.com/npwitk/npwitk.github.io/refs/heads/main/assets/hello-en.svg" alt="Hello" style="width: 70px; height: auto;">, I'm Nonprawich 🌟
 
 My name is **Nonprawich Intakaew**, but you can call me **Google** (yes, like the search engine!). Currently, I’m a student at Sirindhorn International Institute of Technology (SIIT) (Computer Engineering), Thammasat University. I'm here to share a little about myself, my projects, and more. (Though I joined GitHub a while back, I haven’t been updating it regularly—until now, lol!)
 
