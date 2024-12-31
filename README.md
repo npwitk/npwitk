@@ -19,7 +19,7 @@ My name is **Nonprawich Intakaew**, but you can call me **Google** (yes, like th
 
 - **Daydreaming** 🌌: It might sound funny, but I’m known to drift into my own world quite a bit. Some of my best ideas come from these moments!
 - **Taking Photos** 📸: I’m always ready to snap a pic of anything and everything—there’s just so much to capture! I’m a bit obsessed with film cameras, and I might have a slight problem with buying too much film just to capture those "once-in-a-lifetime" moments (or maybe just my friends).
-- **Apple News Reporter** 🍏📰: When there’s an Apple Event, I’m like, “That’s my day!” I have to stay up all night (because, you know, living in +7 means events happen around midnight) to watch Apple Event. I love sharing the latest updates, whether it’s WWDC or another event. I’ll summarize everything and blast it out on my Instagram stories or Twitter—because who doesn’t want to hear all about the newest technologies at 3 AM? 🤣
+- **Apple News Reporter** 🍏📰: When there’s an Apple Event, I’m like, “That’s my day!” I have to stay up all night (because, you know, living in +7 means events happen around midnight) to watch Apple Event. I love sharing the latest updates, whether it’s WWDC or product event. I’ll summarize everything and blast it out on my Instagram stories or Twitter—because who doesn’t want to hear all about the newest technologies at 3 AM? 🤣
 
 ---
 
