@@ -3,13 +3,13 @@
 
 ## <img src="https://raw.githubusercontent.com/npwitk/npwitk.github.io/refs/heads/main/assets/hello-th.svg#gh-light-mode-only" alt="Sawasdee (Hello in Thai)" style="width: 70px; height: auto;"> <img src="https://raw.githubusercontent.com/npwitk/npwitk.github.io/refs/heads/main/assets/hello-th-dark.svg#gh-dark-mode-only" alt="Sawasdee (Hello in Thai)" style="width: 70px; height: auto;"> and <img src="https://raw.githubusercontent.com/npwitk/npwitk.github.io/refs/heads/main/assets/hello-en.svg#gh-light-mode-only" alt="Hello" style="width: 70px; height: auto;"> <img src="https://raw.githubusercontent.com/npwitk/npwitk.github.io/refs/heads/main/assets/hello-en-dark.svg#gh-dark-mode-only" alt="Hello" style="width: 70px; height: auto;">, I'm Nonprawich 🌟
 
-My name is **Nonprawich Intakaew**, but you can call me **Google** (yes, like the search engine!). Currently, I’m a student at Sirindhorn International Institute of Technology (SIIT) (Computer Engineering), Thammasat University. I'm here to share a little about myself, my projects, and more. (Though I joined GitHub a while back, I haven’t been updating it regularly, until now, lol!)
+My name is **Nonprawich Intakaew**, but you can call me **Google** (yes, like the search engine!). Currently, I’m a student at Sirindhorn International Institute of Technology (SIIT) (Computer Engineering), Thammasat University. I'm here to share a little about myself, my projects, and more.
 
 ---
 
 ### 🎓 About Me
 
-- **Education**: 3rd Year **Computer Engineer** student at Sirindhorn International Institute of Technology (SIIT), Thammasat University, Thailand
+- **Education**: 4th Year **Computer Engineer** student at Sirindhorn International Institute of Technology (SIIT), Thammasat University, Thailand
 - **Interest in Tech**: I’ve been in love with technology since I was a kid! I remember making HTML websites to sell stuff online when I was about 7 years old. Spoiler alert: it didn’t really work out, but hey, at least I was trying, righttttt? 😂 Over the years, I’ve done a ton of projects, but my heart belongs to Apple. I adore everything about them, their design, their philosophy. When asked who my idol was back in the day, I’d proudly say, “Steve Jobs!” Later, I discovered Swift, and through a lot of self-learning, I even won the **WWDC23/25 Swift Student Challenge**. How cool is that? _(Craig's voice)_
 - **Personality**: A bit of a perfectionist (sometimes, no, most of the time) and funny! (Gosh, I never thought I would describe myself that way haha).
 
